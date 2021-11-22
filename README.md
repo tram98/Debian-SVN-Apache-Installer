@@ -1,5 +1,3 @@
-Hello.
-
 This is a script for installing an SVN server with apache2 support.
 If the script executes correctly on your system, 
 you will be able to access your SVN repositories via http or https (depending on your apache2 config).
